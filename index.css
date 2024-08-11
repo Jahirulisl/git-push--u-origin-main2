@@ -1,0 +1,7 @@
+.img{
+    background-image: url('andolon.PNG');
+    width: 600px;
+    height: 600px;
+    padding: 20px;
+    border-radius: 100%;
+}
